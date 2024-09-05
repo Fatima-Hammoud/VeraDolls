@@ -118,7 +118,7 @@
     }
     
     section#img02 {
-        background-image: url(..//imagens/imagem-pb.jpg);
+        background-image: url('..//imagens/imagem-pb.jpg');
         
     }
     
